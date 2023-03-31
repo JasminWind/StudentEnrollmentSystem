@@ -1,13 +1,11 @@
 <?php
-
 namespace jas\wind;
-
-class EEdir
+class cap
 {
 	# private $servername = "localhost";
 	# private $username = "root";
 	# private $password = "";
-	# private $databasename = "cap";
+	# private $databasename = "courses";
 	
 	public function __contruct() {
 		# $servername = "localhost";

@@ -11,7 +11,7 @@ class cap
 		# $servername = "localhost";
 		# $username = "root";
 		# $password = "";
-		# $databasename = "course";
+		# $databasename = "cap";
 	}
 
 	# function to return data from the database
